@@ -16,7 +16,7 @@ from sklearn.base import BaseEstimator, TransformerMixin
 
 
 
-pickle_in = open( r"https://github.com/azaruddinaskarali/housingpricesprediction_California/blob/master/fo_reg.pkl","rb")
+pickle_in = open( "fo_reg.pkl","rb")
 fo_reg=pickle.load(pickle_in)
 
 
