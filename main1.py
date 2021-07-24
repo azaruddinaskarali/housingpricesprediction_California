@@ -36,8 +36,9 @@ with dataset:
     st.header("★ California Housing Prices Dataset")
 
     st.text("◆ I found the dataset in kaggle and used it for my predictions")
+    
 
-    housing_data=pd.read_csv(r"C:\Users\Lenovo\Desktop\California_streamlit_webapp\housing.csv")
+    housing_data=pd.read_csv("housing.csv")
     st.write(housing_data.head(5))
 
     st.subheader("★ Median Income Distribution in the Housing Prices Dataset")
