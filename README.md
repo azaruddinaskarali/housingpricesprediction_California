@@ -6,7 +6,7 @@ Link to the housing prices predictor app :  https://share.streamlit.io/azaruddin
 
 
 
-![image](https://github.com/azaruddinaskarali/Median-Housing-Prices-Detection/blob/main/th.jfif)
+![image](https://github.com/azaruddinaskarali/housingpricesprediction_California/blob/master/California_pic.jpg)
 
 # The Task is to use the California census data to build a model of housing prices in the state. 
 
